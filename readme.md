@@ -1,5 +1,5 @@
 # rwlock
-* A short and simple read-write lock in Python*
+* A short and simple read-write lock in Python
 
 This is a concurrency lock that allows you to have many simultaneous readers of
 an object, but only allows one writer at a time.
